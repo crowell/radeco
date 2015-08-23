@@ -142,4 +142,4 @@ expand radeco's arsenal.
 
 ## License
 
-(TODO)
+3 Clause BSD License. See COPYRIGHT for license details.
